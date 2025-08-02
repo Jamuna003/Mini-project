@@ -31,3 +31,15 @@ Scope Summary
 • Created task addition, view, and edit functionalities
 • Secured user data with simple delimiter format
 • Designed reusable functions for user and task management
+
+
+## Project 3:Guess the Number Game
+
+Project Objective
+A fun Python-based game where the user tries to guess a randomly generated number between 1 and 100.
+
+ Scope Summary and Features
+- Random number generation
+- Attempt counter
+- Feedback for each guess
+- Input validation
