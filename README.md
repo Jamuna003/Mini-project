@@ -15,11 +15,10 @@ Scope Summary
 • Menu-driven interaction with input validation
 • String and date handling
 
-## 
-Project 2 – Task Manager with Authentication
+## Project 2 – Task Manager with Authentication
 Date Completed: 07 July 2025
 Duration: 4 weeks (June 2025 – July 2025)
- Project Objective
+Project Objective
 To build a user-based task manager with registration, login, and personal task tracking features using Python.
 Scope Summary
 • Implemented user registration and login using text file storage
