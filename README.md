@@ -1,9 +1,12 @@
 # Mini-project
 ## Project 1 – Personal Expense Tracker
 Date Completed: 07 July 2025
+
 Duration: 3 weeks (June 2025 – July 2025)
+
 Project Objective
 To create a Python-based interactive personal expense tracker for logging, categorizing, and analyzing expenses with file handling capabilities.
+
 Scope Summary
 • Implemented CLI-based tracker for daily expenses
 • Included expense categorization and budget setting
@@ -18,8 +21,11 @@ Scope Summary
 ## Project 2 – Task Manager with Authentication
 Date Completed: 07 July 2025
 Duration: 4 weeks (June 2025 – July 2025)
+
 Project Objective
 To build a user-based task manager with registration, login, and personal task tracking features using Python.
+
+
 Scope Summary
 • Implemented user registration and login using text file storage
 • Created task addition, view, and edit functionalities
